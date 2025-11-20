@@ -5,8 +5,6 @@ This project provides a simple CLI interface for discovering regions, exploring 
 
 Whether you want a fun command-line toy or a hands-on Go project to deepen your backend skills, this Pokedex is fast, extensible, and easy to use.
 
----
-
 ## 🌟 Features
 
 * **Interactive Exploration** — Traverse Pokémon regions using `map` and `mapb` to move forward and backward through routes.
@@ -16,8 +14,6 @@ Whether you want a fun command-line toy or a hands-on Go project to deepen your 
 * **Inspect Pokémon Details** — Display stats, types, and abilities with `inspect`.
 
 Built to be simple, educational, and easy to extend if you want to add more commands or features later.
-
----
 
 ## 🎯 Motivation
 
@@ -30,8 +26,6 @@ This Pokedex strikes the balance:
 * **Fun to Use** — Turns the Pokémon API into an interactive tool.
 
 Whether you're learning Go or just want a fun terminal app, this project gives you everything you need — and nothing you don’t.
-
----
 
 ## 🚀 Installation & Usage
 
@@ -59,8 +53,6 @@ This creates an executable named `pokedex`.
 
 You’ll enter an interactive shell where you can run all available commands.
 
----
-
 ## 🕹️ Commands
 
 Inside the Pokedex shell, you can use:
@@ -73,8 +65,6 @@ Inside the Pokedex shell, you can use:
 * `catch <pokemon>` — Attempt to catch a Pokémon
 * `inspect <pokemon>` — View details for a caught Pokémon
 * `pokedex` — List all Pokémon you’ve captured
-
----
 
 ## 🤝 Contributing
 
